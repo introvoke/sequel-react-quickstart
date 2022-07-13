@@ -6,8 +6,6 @@ To view the live demo, navigate to the following URL: https://introvoke.github.i
 
 For more information about Sequel's developer API, visit our [developer documentation site](https://docs.introvoke.com/docs).
 
-Ready to start creating your own events? [Book a demo](https://www.sequel.io/book-a-demo) today!
-
 ## Available Scripts
 
 In the project directory, you can run:
