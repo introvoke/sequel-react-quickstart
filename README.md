@@ -2,7 +2,7 @@
 
 Welcome to the example repository for creating a frontend React application utilizing the Sequel components! 👋
 
-To view the live demo, navigate to the following URL: TODO
+To view the live demo, navigate to the following URL: https://introvoke.github.io/sequel-react-quickstart/
 
 For more information about Sequel's developer API, visit our [developer documentation site](https://docs.introvoke.com/docs).
 
