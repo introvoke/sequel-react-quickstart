@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sequel-react-quickstart/static/css/main.0e72c446.css",
-    "main.js": "/sequel-react-quickstart/static/js/main.8e3fb5e9.js",
+    "main.js": "/sequel-react-quickstart/static/js/main.0b8aac82.js",
     "static/media/brand-img.png": "/sequel-react-quickstart/static/media/brand-img.4f83185655062c308527.png",
     "index.html": "/sequel-react-quickstart/index.html",
     "main.0e72c446.css.map": "/sequel-react-quickstart/static/css/main.0e72c446.css.map",
-    "main.8e3fb5e9.js.map": "/sequel-react-quickstart/static/js/main.8e3fb5e9.js.map"
+    "main.0b8aac82.js.map": "/sequel-react-quickstart/static/js/main.0b8aac82.js.map"
   },
   "entrypoints": [
     "static/css/main.0e72c446.css",
-    "static/js/main.8e3fb5e9.js"
+    "static/js/main.0b8aac82.js"
   ]
 }
