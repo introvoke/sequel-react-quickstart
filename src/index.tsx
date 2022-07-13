@@ -26,7 +26,7 @@ const theme = createTheme({
 
 function Providers({ children }: React.PropsWithChildren) {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <QueryClientProvider client={queryClient}>
         <ThemeProvider theme={theme}>
           <CssBaseline />
